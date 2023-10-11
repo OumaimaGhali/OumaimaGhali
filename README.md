@@ -1,25 +1,25 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Oumaima Ghali 👋
 
 ## About Me
-I'm a passionate software developer with a knack for problem-solving and a love for clean code. Coding has been my journey of continuous learning and exploration.
+I really like working with computers, helping them use data. I enjoy figuring out problems and organizing information. Writing neat and understandable code is something I find super interesting. Learning about this computer stuff is like a cool adventure for me!
 
 ## 💻 Skills
 - Python
-- JavaScript
+- Java
 - React
 - SQL
-- Git
+- Data analysis
+- Problem Solving
+- DataBases
+  
 
 ## 🎓 Education
-- B.S. in Computer Science, University Name (Year)
+- Final-year student in Computer Science and Data Engineering
 
-## 🏆 Certifications
-- Certification in Web Development (Month Year)
 
 ## 📬 Let's Connect
-- LinkedIn: [Your LinkedIn Profile](Link)
-- Twitter: [@YourTwitterHandle](Link)
-- Personal Website: [Your Portfolio](Link)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/oumaima-ghali/)
+
 
 ## 👨‍💻 Coding Style
 ```python
