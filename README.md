@@ -1,4 +1,4 @@
-# <div style="color: #FF6F61; font-size: 2.5em; font-weight: bold; white-space: nowrap; overflow: hidden; width: 100%;">
+<div style="color: #FF6F61; font-size: 2.5em; font-weight: bold; white-space: nowrap; overflow: hidden; width: 100%;">
   <marquee behavior="scroll" direction="left" scrollamount="10">Hi, I'm Oumaima Ghali 👋</marquee>
 </div>
 
