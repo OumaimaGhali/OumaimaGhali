@@ -14,7 +14,7 @@ I really like working with computers, helping them use data. I enjoy figuring ou
   
 
 ## 🎓 Education
-- Final-year student in Computer Science and Data Engineering
+- Computer Science and Data Engineer
 
 
 ## 📬 Let's Connect
