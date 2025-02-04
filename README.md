@@ -1,8 +1,8 @@
-# Hi, I'm Oumaima Ghali 👋
+
 <div align="center">
-  <a href="./nk.html">
-    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="200" alt="Coding Animation">
-  </a>
+# Hello, I'm Oumaima Ghali
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="500">
+<br><br>
 
 </div>
 
@@ -47,9 +47,7 @@ I really like working with computers, helping them use data. I enjoy figuring ou
 
 ---
 
-Molecules dance
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
-<br><br>
+
 
 ---
 
