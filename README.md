@@ -1,4 +1,9 @@
-hi i'm oumaima ghali
+# Hi, I'm Oumaima Ghali 👋
+
+<div align="center">
+  <a href="https://<OumaimaGhali>.github.io/nk.html/">
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="200" alt="Coding Animation">
+  </a>
 
 ## About Me
 I really like working with computers, helping them use data. I enjoy figuring out problems and organizing information. Writing neat and understandable code is something I find super interesting. Learning about this computer stuff is like a cool adventure for me!
