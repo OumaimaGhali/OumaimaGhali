@@ -59,9 +59,7 @@ I really like working with computers, helping them use data. I enjoy figuring ou
   <a href="mailto:oumaimaghali4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://twitter.com/OumaimaGhali">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+  
 </div>
 
 ---
