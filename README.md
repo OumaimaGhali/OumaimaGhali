@@ -1,4 +1,4 @@
-# Hi, I'm Oumaima Ghali 👋
+# Hi, I'm Oumaima Ghali 
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="200" alt="Coding Animation">
@@ -17,7 +17,13 @@ I really like working with computers, helping them use data. I enjoy figuring ou
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Data%20Analysis-2C8EBB?style=for-the-badge&logo=dataiku&logoColor=white" alt="Data Analysis">
   <img src="https://img.shields.io/badge/Problem%20Solving-FF6F61?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving">
-  <img src="https://img.shields.io/badge/Databases-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Databases">
+ <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow">
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop">
+  <img src="https://img.shields.io/badge/Qlik-0098DA?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
 
 ---
@@ -52,6 +58,5 @@ I really like working with computers, helping them use data. I enjoy figuring ou
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OumaimaGhali&color=blueviolet&style=flat-square" alt="Profile Views">
-</div>
+## 🐍 Snake Eating My Contributions
+![Snake animation](https://github.com/OumaimaGhali/OumaimaGhali/blob/output/github-contribution-grid-snake.svg)
