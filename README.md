@@ -3,7 +3,7 @@
   <a href="./nk.html">
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="200" alt="Coding Animation">
   </a>
-  <p>Check out my <a href="./nk.html">snake animation</a>!</p>
+
 </div>
 
 
