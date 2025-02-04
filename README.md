@@ -1,7 +1,8 @@
 
 <div align="center">
-# Hello, I'm Oumaima Ghali
-  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="500">
+<h2> Hello, I'm Oumaima Ghali</h2>
+<img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400">
+<br>
 <br><br>
 
 </div>
