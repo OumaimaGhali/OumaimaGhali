@@ -1,14 +1,4 @@
-# Hi, I'm <span style="color: blue;">O</span><span style="color: purple;">u</span><span style="color: blue;">m</span><span style="color: purple;">a</span><span style="color: blue;">i</span><span style="color: purple;">m</span><span style="color: blue;">a</span> <span style="color: purple;">G</span><span style="color: blue;">h</span><span style="color: purple;">a</span><span style="color: blue;">l</span><span style="color: purple;">i</span> 👋
-
-<div align="center">
-  <pre style="color: blue;">
-    .-""-.
-   /      \
-  |  🍪🍪  |  🐍
-   \      /
-    '-..-'
-  </pre>
-</div>
+hi i'm oumaima ghali
 
 ## About Me
 I really like working with computers, helping them use data. I enjoy figuring out problems and organizing information. Writing neat and understandable code is something I find super interesting. Learning about this computer stuff is like a cool adventure for me!
@@ -26,7 +16,7 @@ I really like working with computers, helping them use data. I enjoy figuring ou
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow">
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop">
-  <img src="https://img.shields.io/badge/Qlik-0098DA?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik">
+ 
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
