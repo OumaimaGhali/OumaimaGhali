@@ -1,50 +1,57 @@
-<h1 align="center">Hi there, I'm Oumaima Ghalil! 👋</h1>
-<h3 align="center">🚀 Data Analyst | BI Enthusiast | Tech Lover</h3>
+# Hi, I'm Oumaima Ghali 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OumaimaGhalil&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="200" alt="Coding Animation">
+</div>
 
----
-
-### 🛠️ Tech Stack
-- **Programming:** Python, SQL, JavaScript
-- **Data & BI Tools:** Power BI, Tableau, SAP BW, SAP BO, Talend
-- **Databases:** MySQL, PostgreSQL, Snowflake
-- **Other Tools:** Git, Docker, Linux, Jira
+## About Me
+I really like working with computers, helping them use data. I enjoy figuring out problems and organizing information. Writing neat and understandable code is something I find super interesting. Learning about this computer stuff is like a cool adventure for me!
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OumaimaGhalil&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OumaimaGhalil&theme=radical" alt="GitHub Streak">
-</p>
+## 💻 Skills
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Data%20Analysis-2C8EBB?style=for-the-badge&logo=dataiku&logoColor=white" alt="Data Analysis">
+  <img src="https://img.shields.io/badge/Problem%20Solving-FF6F61?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solving">
+  <img src="https://img.shields.io/badge/Databases-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Databases">
+</div>
 
 ---
 
-### 🔗 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/oumaimaghali4/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:oumaimaghali4@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+## 🎓 Education
+- **Computer Science and Data Engineer**
 
 ---
 
-### 🏆 Fun Fact
-💡 "I love turning data into actionable insights and making business decisions smarter!"
+## 🚀 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OumaimaGhali&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OumaimaGhali&theme=radical" alt="GitHub Streak">
+</div>
 
 ---
 
 
 
-## 📬 Let's Connect
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/oumaima-ghali/)
+---
 
+## 📫 Let's Connect!
+<div align="center">
+  <a href="https://www.linkedin.com/in/oumaima-ghali">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:oumaimaghali4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+ 
+</div>
 
-## 👨‍💻 Coding Style
-```python
-def greet():
-    print("Hello, world!")
+---
 
-# Clean and readable code is my mantra!
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=OumaimaGhali&color=blueviolet&style=flat-square" alt="Profile Views">
+</div>
