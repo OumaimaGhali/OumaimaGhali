@@ -1,4 +1,6 @@
-# Hi, I'm Oumaima Ghali 
+# <div style="color: #FF6F61; font-size: 2.5em; font-weight: bold; white-space: nowrap; overflow: hidden; width: 100%;">
+  <marquee behavior="scroll" direction="left" scrollamount="10">Hi, I'm Oumaima Ghali 👋</marquee>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="200" alt="Coding Animation">
@@ -58,5 +60,4 @@ I really like working with computers, helping them use data. I enjoy figuring ou
 
 ---
 
-## 🐍 Snake Eating My Contributions
-![Snake animation](https://github.com/OumaimaGhali/OumaimaGhali/blob/output/github-contribution-grid-snake.svg)
+
