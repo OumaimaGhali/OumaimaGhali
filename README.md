@@ -5,7 +5,7 @@
 <br>
 
 
-
+</div>
 
 
 
@@ -46,7 +46,7 @@ I really like working with computers, helping them use data. I enjoy figuring ou
 ---
 
 ## 🎓 Education
-- **Computer Science and Data Engineer**
+ **Computer Science and Data Engineer**
 
 ---
 
