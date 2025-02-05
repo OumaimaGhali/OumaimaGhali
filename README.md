@@ -5,16 +5,10 @@
 <br>
 
 
-</div>
-
-<div align="center">
-<h2> About Me</h2>
-<p> I really like working with computers, helping them use data. I enjoy figuring out problems and organizing information. Writing neat and understandable code is something I find super interesting. Learning about this computer stuff is like a cool adventure for me!
-</p>
-<br>
 
 
-</div>
+
+
 
 ## About Me
 I really like working with computers, helping them use data. I enjoy figuring out problems and organizing information. Writing neat and understandable code is something I find super interesting. Learning about this computer stuff is like a cool adventure for me!
@@ -73,4 +67,7 @@ I really like working with computers, helping them use data. I enjoy figuring ou
 
 ---
 
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<br><br>
+<br>
