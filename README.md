@@ -49,7 +49,13 @@ I really like working with computers, helping them use data. I enjoy figuring ou
  **Computer Science and Data Engineer**
 
 ---
+## 🚀 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OumaimaGhali&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OumaimaGhali&theme=radical" alt="GitHub Streak">
+</div>
 
+---
 
 
 ---
