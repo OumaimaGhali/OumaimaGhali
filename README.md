@@ -3,10 +3,18 @@
 <h2> Hello, I'm Oumaima Ghali</h2>
 <img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400">
 <br>
-<br><br>
+
 
 </div>
 
+<div align="center">
+<h2> About Me</h2>
+<p> I really like working with computers, helping them use data. I enjoy figuring out problems and organizing information. Writing neat and understandable code is something I find super interesting. Learning about this computer stuff is like a cool adventure for me!
+</p>
+<br>
+
+
+</div>
 
 ## About Me
 I really like working with computers, helping them use data. I enjoy figuring out problems and organizing information. Writing neat and understandable code is something I find super interesting. Learning about this computer stuff is like a cool adventure for me!
